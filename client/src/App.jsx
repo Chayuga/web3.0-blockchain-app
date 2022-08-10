@@ -1,4 +1,4 @@
-import { NavBar, Welcome, Footer, Services, Transactions } from "./components";
+import { NavBar, Welcome, Footer, Services, Transactions } from './components';
 
 function App() {
   return (
